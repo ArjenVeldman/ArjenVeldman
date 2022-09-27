@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjenVeldman
 - 👀 I’m interested in Azure
-- 🌱 I’m currently learning a lot
+- 🌱 I’m learning a lot right now
 - 📫 How to reach me aveldman@intercept.cloud
 
 <!---
